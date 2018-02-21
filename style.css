@@ -1,7 +1,57 @@
+.body {
+  background-color: black;
+}
+
+.header-text {
+  color: whitesmoke;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.white-border {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-color: whitesmoke;
+}
+
+.centered-image {
+  height: 80px;
+  width: 150px;
+  padding-top: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.centered-image2 {
+  padding-top: 50px;
+  height: 600px;
+  width: 600px;
+}
 .ui.borderless.topmenu.menu {
+  background-color: black;
   box-shadow: none;
   border: none;
   height: 50px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  font-family: "Arial Narrow";
+  font-weight: bolder;
+}
+
+.font-color {
+  padding-top: 40px;
+  color: whitesmoke;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.font-color2 {
+  padding-top: 30px;
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 .ui.borderless.middlemenu.menu {
@@ -10,9 +60,6 @@
 }
 
 .footer-background {
-  background-color: #292929;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  padding-left: 500px;
-  color: white;
+  background-color: black;
+  color: whitesmoke;
 }
